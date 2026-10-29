@@ -1,0 +1,8 @@
+name = "mindflow-self-help"
+compatibility_date = "2026-10-01"
+pages_build_output_dir = "public"
+
+# Tùy chọn: Bỏ chú thích bên dưới nếu bạn muốn lưu trữ đồng bộ đám mây trên Cloudflare KV
+# [[kv_namespaces]]
+# binding = "MINDFLOW_KV"
+# id = "YOUR_KV_NAMESPACE_ID"

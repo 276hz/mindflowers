@@ -1,0 +1,20 @@
+{
+  "name": "Tâm An (MindFlow) — Phát Triển Bản Thân & Chánh Niệm",
+  "short_name": "Tâm An",
+  "description": "Ứng dụng Self-Help toàn diện: Theo dõi thói quen, Nhật ký biết ơn & CBT, Pomodoro, Hít thở dẫn hướng và Bánh xe cuộc đời.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fafaf9",
+  "theme_color": "#0f766e",
+  "lang": "vi",
+  "id": "/",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

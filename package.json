@@ -1,0 +1,13 @@
+{
+  "name": "mindflow-self-help-cloudflare-pages",
+  "version": "2.4.0",
+  "private": true,
+  "description": "Production-ready Self-Help & Mindfulness Web App configured for Cloudflare Pages + Pages Functions",
+  "scripts": {
+    "dev": "wrangler pages dev public",
+    "deploy": "wrangler pages deploy public --project-name=mindflow-self-help"
+  },
+  "devDependencies": {
+    "wrangler": "^3.80.0"
+  }
+}
